@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Website](https://img.shields.io/website?label=https://rehan-pasha.surge.sh/.com&style=for-the-badge&url=http://dysfunctional-selection.surge.sh/)]
+[![Website](https://img.shields.io/website?label=https://ahmed-sheikh.surge.sh/.com&style=for-the-badge&url=http://dysfunctional-selection.surge.sh/)]
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **ahmedsheikh78610@gmail.com**
