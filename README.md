@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@itsmejoker786" height="30" width="40" /></a>
-<a href="https://www.facebook.com/home.php"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rehan pasha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.me.joker786" height="30" width="40" /></a>
+<a href="https://twitter.com/AhmedKa68334612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@itsmejoker786" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100050568168442"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rehan pasha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahmedsheikh825/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.me.joker786" height="30" width="40" /></a>
 </p>
 
 
